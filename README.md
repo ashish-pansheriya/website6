@@ -1,6 +1,6 @@
 # website6 L2 base python
 
-<h3>Classified ads posting and Social gethering website by django</h3>
+<h3>A Classified ads posting and the Social gethering website by using the Django mainframe</h3>
 Install dependencies by running $pip install -r requirements.txt 
  or Install packages using $pip install 'package' command 
 
